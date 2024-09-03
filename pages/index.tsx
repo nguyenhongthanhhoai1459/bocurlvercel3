@@ -17,10 +17,6 @@ const Home: NextPage = () => {
           Welcome to <a href="hhttps://country.discovermusic.us/">Country.discovermusic.us</a>
         </h1>
       </main>
-
-      <footer className={styles.footer}>
-        
-      </footer>
     </div>
   )
 }
